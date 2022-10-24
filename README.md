@@ -1,9 +1,9 @@
 # Criando-primeiro-site-com-HTML
 Esse site foi criado como desafio de projeto final do módulo de HTML. Não havia necessidade de fazer o CSS da página, pois ainda não foi ministrado esse módulo.
-O desafio era criar uma página de uma clínica composta por 4 partes: Página principal, Sobre a clínica, Horário de atendimento e Contato. O menu e o footer deveriam ser iguais em todas as abas e ao clicar em cada link do menu deveria direcionar para a aba correpondente.
+O desafio era criar uma página de uma clínica composta por 4 partes: Página principal, Sobre a clínica, Horário de atendimento e Contato. O menu e o footer deveriam ser iguais em todas as abas e ao clicar em cada link do menu deveria direcionar para a aba correspondente.
 Cada aba deveria conter uma imagem diferente no header.
 # Imagens da página:
-# PáginaPrincipal:
+# Página Principal:
 ![image](https://user-images.githubusercontent.com/105547157/197533858-82ee7ee4-1108-4768-9651-a10d29a4e631.png)
 
 # Sobre a clínica:
